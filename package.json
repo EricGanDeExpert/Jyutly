@@ -1,0 +1,5 @@
+{
+  "name": "jyutly",
+  "private": true,
+  "workspaces": ["packages/*", "apps/*"]
+}
